@@ -1,0 +1,14 @@
+title: Kotlin Basics Course
+language: English
+summary: |-
+  Kotlin course.
+  Created: May 3, 2021, 9:18:50 PM.
+programming_language: Kotlin
+content:
+- Introduction
+- Variables
+- Data Types
+- Operators
+- Control Flow
+- Loops
+- Functions
